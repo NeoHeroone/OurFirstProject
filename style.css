@@ -1,3 +1,55 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1440px;
+  padding: 20px;
+}
+.jaxangir {
+  background-color: rgba(1, 47, 52, 1);
+}
+.footer-title h2 {
+  margin-bottom: 56px;
+  text-align: center;
+  font-size: 48px;
+  color: white;
+}
+.thevergade {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 125px;
+}
+.ready {
+  padding: 76px 260px;
+  background-color: rgba(246, 126, 126, 1);
+}
+.contact {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.contact b {
+  color: rgba(1, 47, 52, 1);
+  font-size: 48px;
+}
+.contact button {
+  font-size: 18px;
+  background: transparent;
+  border: 3px solid rgba(1, 47, 52, 1);
+  padding: 10px 40px;
+  border-radius: 25px;
+}
+.mytam {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 171px;
+  padding-right: 171px;
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+.set {
+  display: flex;
+  gap: 16px;
+=======
 @import url("https://fonts.googleapis.com/css2?family=Livvic:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,900&display=swap");
 
 * {
@@ -97,7 +149,7 @@ ul li a{
     font-family: Livvic;
     color: white;
     padding-left: 300px;
-padding-right: 150px;
+    padding-right: 150px;
     font-size: 18px;
 
     padding-top: 150px;
